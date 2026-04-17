@@ -93,6 +93,8 @@ config/      → 配置管理层，集中管理配置
 
 后端：
 ```bash
+go mod tidy
+go install github.com/cosmtrek/air@latest
 cd Back
 air
 ```
