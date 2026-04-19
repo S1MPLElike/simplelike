@@ -107,3 +107,28 @@ npm run dev
 ```
 
 ---
+### 以下是项目的一些图片
+- 这个是登录界面，如果说用户上次登录时间距现在不超过七天就会自动登录
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 222706" src="https://github.com/user-attachments/assets/a69a848c-08f6-4535-bce5-940f19f62b06" />
+- 这里登录后进入到的首页，可以看到帖子可以按照不同的参数来排序，也支持搜索
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 222814" src="https://github.com/user-attachments/assets/f5bc8e09-2616-448f-a727-ef4bf1078c86" />
+- 这里是帖子的详细页面，可以看到点赞收藏评论在最右边，如果帖子过长，在你滑动的时候这三个按键会一直定在这里，用户读文章的时候可以随时点赞收藏或评论
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 223805" src="https://github.com/user-attachments/assets/683d7a3a-1d78-4fdd-8977-c21f67b08d63" />
+- 演示评论模块
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 222925" src="https://github.com/user-attachments/assets/bd14d4dd-3a87-41c4-82dd-c99a4175cbaa" />
+- 演示帖子模块可以发图片
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 223046" src="https://github.com/user-attachments/assets/6f5c13e1-acd9-4016-9156-6ad594a2c420" />
+- 演示帖子发布模块的界面
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 223054" src="https://github.com/user-attachments/assets/5baf5efc-bf96-41a9-995b-52dd492264ba" />
+- 这里演示好友模块，用websocket实现了实时通信
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 223204" src="https://github.com/user-attachments/assets/f77d2b5b-fef2-442b-8072-821cf913c1fc" />
+- 设置模块用于修改用户信息
+<img width="1920" height="1080" alt="屏幕截图 2026-04-19 223212" src="https://github.com/user-attachments/assets/f2a9b6e2-f026-47af-a1f3-70a5a91882cb" />
+- 个人主页模块中可以看到自己的各种信息
+<img width="1731" height="1079" alt="屏幕截图 2026-04-19 224331" src="https://github.com/user-attachments/assets/52e82932-b8cb-4f8e-adca-584f8443421f" />
+
+
+
+
+
+
